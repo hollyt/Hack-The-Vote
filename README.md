@@ -4,4 +4,4 @@ Hack the Vote is a webapp designed and built for the Lehman College NSBE Hackath
 
 The midterm elections had just passed with a very small voter turnout for young adults. We decided to create a game that allows users to connect with their friends on Twitter and share high scores, hopefully bringing them to our web page with information on how to be a more informed voter.   
 
-**We won first place!** Check out a live demo [here]().
+**We won first place!** Check out a live demo [here](http://acc6.its.brooklyn.cuny.edu/~htancred/hackvote/index.html).
