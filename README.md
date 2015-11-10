@@ -1,4 +1,4 @@
-# Hack The Vote
+# :us: Hack The Vote :us:
 
 Hack the Vote is a webapp designed and built for the Lehman College NSBE Hackathon 2014 to address the prompt 'Create an app to help facilitate social change'.   
 
